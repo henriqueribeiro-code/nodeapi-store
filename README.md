@@ -6,9 +6,6 @@ Applications in Node js, specifically creating an api with **Express and Mongodb
 
    - __bin__
      - [server.js](bin/server.js)
-   - [package\-lock.json](package-lock.json)
-   - [package.json](package.json)
-   - [server\-backup.js](server-backup.js)
    - __src__
      - [app.js](src/app.js)
      - __controllers__
@@ -23,9 +20,9 @@ Applications in Node js, specifically creating an api with **Express and Mongodb
      - __validators__
        - [fluent\-validator.js](src/validators/fluent-validator.js)
    
-
-
-
+   - [package\-lock.json](package-lock.json)
+   - [package.json](package.json)
+   - [server\-backup.js](server-backup.js)
 
 
 
